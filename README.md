@@ -1,0 +1,2 @@
+# hello-world
+Mācību projekts
