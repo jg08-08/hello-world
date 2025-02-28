@@ -1,2 +1,2 @@
-mksdfjhnosdfuhdf# hello-world
+f# hello-world
 Mācību projekts
